@@ -409,7 +409,7 @@ Accessible at school using proxy:
 
 ## Conclusion
 
-	I’ve set up a proxy server using shadowsocks-rust and a client using shadowsocksX-NG. It successfully circumvents the restrictions placed by the school firewall. Although a decrease in performance is observed, it is still suitable for everyday usage.
+I’ve set up a proxy server using shadowsocks-rust and a client using shadowsocksX-NG. It successfully circumvents the restrictions placed by the school firewall. Although a decrease in performance is observed, it is still suitable for everyday usage.
 
 
 ## Notes
