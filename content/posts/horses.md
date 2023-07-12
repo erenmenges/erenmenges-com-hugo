@@ -41,7 +41,7 @@ The Kazakh buried deceased men alongside their horses. In the twentieth century,
 
 &nbsp;
 # Horse as an Assistant to the Kazakh
-##Companionship
+## Companionship
 The Kazakh always had the companionship and assistance of the horses. They used the horse for transportation, farming, and building materials. Nomadic lifestyle made horses necessary. Kazakh people start learning how to ride horses at the age of 3, and at age five or seven, Kazakh children are given a horse. Therefore, they are excellent riders. Horses were used as the primary vehicles of transportation since they were fast (Kurylev). They provided mobility and rapidity (Duman and Kulzira). Horses were also used to help the Kazakh in agriculture, especially farming (“Kazakhstan”). Horse hair was used to build robust ropes (Kurylev).
 
 &nbsp;
