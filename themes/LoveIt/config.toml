@@ -1,3 +1,12 @@
+[server]
+[[server.headers]]
+  for = '/**.html'
+  [server.headers.values]
+    Content-Security-Policy = 'script-src erenmenges.com'
+    Referrer-Policy = 'strict-origin-when-cross-origin'
+    X-Content-Type-Options = 'nosniff'
+    X-Frame-Options = 'DENY'
+
 [module]
   [module.hugoVersion]
     extended = true
