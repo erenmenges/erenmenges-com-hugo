@@ -7,6 +7,8 @@ author: "Eren Mengeş"
 authorLink: "/about/"
 summary: HTTP response headers are mechanisms that assist in improving security in websites. In this paper, 5088 domains were tested using seven different tests.
 ---
+>This paper is not to be reproduced in any way. The content is my work and belongs to me as the author. I must be cited as the author if anyone wishes to quote or paraphrase.
+
 ## Abstract
 
 **	**

@@ -7,6 +7,7 @@ author: "Eren Mengeş"
 authorLink: "/about/"
 summary: The school firewall annoyed the hell out of me, so I got around it.
 ---
+>This paper is not to be reproduced in any way. The content is my work and belongs to me as the author. I must be cited as the author if anyone wishes to quote or paraphrase.
 
 ## Purpose
 
