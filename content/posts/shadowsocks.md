@@ -16,7 +16,7 @@ This project aims to bypass the school firewall's restrictions without using a c
 
 ## Backstory
 
-This started as a personal project but turned into an essay because I decided to document it. Sometimes I need to access websites that the school firewall blocks. For instance, I am the president of the Ethical Hacking club. I lecture students every week. I needed them to install hacking software that we would use in national and international competitions, but the school firewall blocked the website because it was related to hacking. In conclusion, sometimes, there is a legitimate reason to bypass the firewall.
+This started as a personal project but turned into an essay because I decided to document it. Sometimes I need to access websites that the school firewall blocks. For instance, I am the president of the Ethical Hacking club and I lecture club members every week. I needed them to install hacking software that we would use in national and international competitions, but the school firewall blocked the website because it was related to hacking. In conclusion, sometimes, there is a legitimate reason to bypass the firewall.
 
 
 ## Description
