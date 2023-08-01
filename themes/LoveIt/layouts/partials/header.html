@@ -1,6 +1,7 @@
+{{ template "_internal/google_analytics.html" . }}
 {{- /* Desktop header */ -}}
 <header class="desktop" id="header-desktop">
-  {{ template "_internal/google_analytics.html" . }}
+  <!-- Google tag (gtag.js) -->
     <div class="header-wrapper">
         <div class="header-title">
             <a href="{{ .Site.Home.RelPermalink }}" title="{{ .Site.Title }}">
@@ -87,7 +88,6 @@
 
 {{- /* Mobile header */ -}}
 <header class="mobile" id="header-mobile">
-  {{ template "_internal/google_analytics.html" . }}
     <div class="header-container">
         <div class="header-wrapper">
             <div class="header-title">
