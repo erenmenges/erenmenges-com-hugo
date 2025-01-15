@@ -170,7 +170,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  title shown in home page (HTML format is supported)
       title = "Eren Mengeş"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "17-year-old high school student who is interested in cybersecurity."
+      subtitle = "19-year-old NYU freshman who is interested in software engineering."
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
